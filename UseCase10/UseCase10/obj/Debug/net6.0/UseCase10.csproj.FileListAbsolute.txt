@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\bin\Debug\net6.0\UseCase10.exe
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\bin\Debug\net6.0\UseCase10.deps.json
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\bin\Debug\net6.0\UseCase10.runtimeconfig.json
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\bin\Debug\net6.0\UseCase10.dll
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\bin\Debug\net6.0\UseCase10.pdb
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\obj\Debug\net6.0\UseCase10.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\obj\Debug\net6.0\UseCase10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\obj\Debug\net6.0\UseCase10.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\obj\Debug\net6.0\UseCase10.AssemblyInfo.cs
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\obj\Debug\net6.0\UseCase10.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\obj\Debug\net6.0\UseCase10.dll
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\obj\Debug\net6.0\refint\UseCase10.dll
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\obj\Debug\net6.0\UseCase10.pdb
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\obj\Debug\net6.0\UseCase10.genruntimeconfig.cache
+C:\Users\USER\source\BL\EmployeeWageProblem\EmployeeWageProblem\UseCase10\UseCase10\obj\Debug\net6.0\ref\UseCase10.dll
